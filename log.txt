@@ -1,0 +1,48 @@
+[33mcommit 9a879ebec4e50058ebb6141f9251fd1ec8b0a50b[m[33m ([m[1;36mHEAD -> [m[1;32mnueva[m[33m)[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 21:23:26 2023 -0300
+
+    primera nueva
+
+[33mcommit ce0b57c74a16168ba1c25694cab20ebc9653bc14[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 21:23:09 2023 -0300
+
+    primera nueva
+
+[33mcommit 0c0a64c965fa6506242f38d9a8468a79985755bb[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 21:16:42 2023 -0300
+
+    agregado de js
+
+[33mcommit 95bc82aa8a70b3dbc13913ec8a08931cd1689b6b[m[33m ([m[1;32mfeature-1[m[33m)[m
+Merge: cdffd85 65047f3
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 20:57:03 2023 -0300
+
+    cuarta y merge lineas confirmacion master
+
+[33mcommit cdffd855ffd5bed2bb50c658786f4da3c7d49697[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 20:52:51 2023 -0300
+
+    tercera con dos lineas confirmacion master
+
+[33mcommit 65047f3dd309b74787ad3105a5987933fd59ffaf[m[33m ([m[1;32msecundaria[m[33m)[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 20:50:45 2023 -0300
+
+    primera confirmacion rama secundaria
+
+[33mcommit 3bf63daf812787f2533557babce38a20b1050286[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 20:48:51 2023 -0300
+
+    segunda  confirmacion master
+
+[33mcommit 744a72508b6e000b9692dbaac9ec0c25bede4cf8[m
+Author: Grace <minoe_libra@hotmail.con>
+Date:   Wed Jun 7 20:47:59 2023 -0300
+
+    primer confirmacion master
